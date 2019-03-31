@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
-import Home from './components/Home';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import React, { Component } from "react"
+import Home from "./components/Home"
+import "bootstrap/dist/css/bootstrap.min.css"
 
 class App extends Component {
   render() {
@@ -14,8 +14,8 @@ class App extends Component {
           </div>
         </div>
       </div>
-    );
+    )
   }
 }
 
-export default App;
+export default App
